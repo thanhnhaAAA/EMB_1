@@ -159,5 +159,5 @@ int main ()
     printf("%d \n",dequeue());
     printf("%d",dequeue());
     return 0;
-
+// husadnagsdhsadjaslda;dka
 }
