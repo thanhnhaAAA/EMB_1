@@ -1,3 +1,6 @@
+
+// hungsadasdasda dhjsalhddaldkdhafhgauk khoi lo
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
