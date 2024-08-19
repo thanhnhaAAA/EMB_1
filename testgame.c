@@ -1,5 +1,5 @@
 
-// hungsadasdasda dhjsalhddaldkdhafhgauk khoi lo
+
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -180,21 +180,4 @@ int main() {
 
 
 
-Player player;
-    strcpy(player.name, player_name);
-    player.score = score;
-    save_score(player); // Save the player's score
-    update_top_players(); // Update the top players list
-    print_top_players(); // Print the top 3 players
 
-    return 0;
-}
-Player player;
-    strcpy(player.name, player_name);
-    player.score = score;
-    save_score(player); // Save the player's score
-    update_top_players(); // Update the top players list
-    print_top_players(); // Print the top 3 players
-
-    return 0;
-}
